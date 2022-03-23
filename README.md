@@ -1,5 +1,9 @@
 # Whatsapp Clone + Firebase/FireStore in ReactJS
 
+Project done for learning experience.
+
+Original : https://www.youtube.com/watch?v=BkX4niTo9Ow
+
 This project has a few of the main functionalities of the whatsapp app, including : 
 
  - Start new conversation
